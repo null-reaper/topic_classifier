@@ -8,11 +8,11 @@ dataset contains 46 such examples, while there are 18 in the test set—the labe
 The naive bayes classifier estimates the probability p(label|words) by first computing p(label) and p(words|label);
 probability calculations are performed in log space and add-one smoothing is applied to improve results.
 
-The output when evaluating the classifier on the test dataset were as follows:
+The output when evaluating the classifier on the test dataset were as follows: <br />
 
-overall accuracy: 0.9444444444444444
-precision for red: 0.8571428571428571
-precision for blue: 1.0
-recall for red: 1.0
+overall accuracy: 0.9444444444444444 <br />
+precision for red: 0.8571428571428571 <br />
+precision for blue: 1.0 <br />
+recall for red: 1.0 <br />
 recall for blue: 0.9166666666666666
 
